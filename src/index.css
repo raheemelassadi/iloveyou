@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    h1 {
+        font-family: 'Corinthia', cursive;
+    }
+}
